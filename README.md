@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard
-Project aim
-
-The goal of this project is to turn raw HR data into clear, actionable insights about employee attrition and workforce composition. The dashboard helps stakeholders quickly see who leaves the company, which groups are most at-risk, and which factors correlate most strongly with attrition so that targeted retention strategies can be designed.
+# HR Analytics — Power BI Dashboard
+Interactive Power BI dashboard to analyze employee attrition and workforce characteristics, helping HR teams identify at-risk groups and design targeted retention strategies.
+![Power BI](https://github.com/projectrepo2003/HR-Analytics-Dashboard/blob/main/HRAnalytics.png)
