@@ -21,7 +21,7 @@ The dashboard was built using the following tools and technologies:
 ---
 - Used 6 KPI Cards to show total employees, Attrition count, Attrition rate, Avg. tenure, and Avg. salary.
 - Potrayed Attrition breakdowns by Job Role, Department, Salary band, Education, Gender, and Age group.
-- Used Donut Chart, Stacked Column Chart, Stacked Bar Chart, Area Chart, Matrix and Tree Map to display visualizations of the columns that contribution to attrition rate.
+- Used Donut Chart, Stacked Column Chart, Stacked Bar Chart, Area Chart, Matrix and Tree Map to display visualizations of the columns that contributed to attrition rate.
 
 ### Screenshot
 ---
