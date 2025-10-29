@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ### Project title
----
+<p align="center">─ ─ ─</p>
 📊 HR Analytics — Employee Attrition & Workforce Insights
 Interactive Power BI dashboard to analyze employee attrition and workforce characteristics.
 
